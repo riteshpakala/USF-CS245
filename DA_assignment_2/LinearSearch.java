@@ -1,4 +1,4 @@
-package edu.usfca.cs.cs245;
+//package edu.usfca.cs.cs245;
 
 public class LinearSearch implements Practice2Search{
 	public int search(int [] arr, int target) {
